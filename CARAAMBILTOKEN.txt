@@ -1,0 +1,17 @@
+#Dibuat Oleh BIN1745
+#TUTORIAL
+
+### CARA AMBIL TOKEN&COOCKIE FB
+- SEBELUM MASUK KE FOLDER CRACKFB ,SILAKAN DOWNLOAD DI PLAYSTORE [KiwiBrowser]
+- CARI DI KIWIBROWSER [Cookie Dough Extension] lalu tambahkan 
+- LALU KUNJUNGI WEBSITE [mbasic.facebook.com] silakan login
+- SETELAH LOGIN klik tanda 3 di pojok kiri pilih [Cookie Dough]lalu salin
+- SETELAH SALIN Jalankan perintah [python TOKEN.py] lalu tempelkan salinan tadi
+- SETELAH SALINAN TADI DITEMPEL MAKAN ENTER ,LALU SALIN TOKEN
+
+### CARA HACK FB
+## MASUK KE CRACKFB
+
+	$ cd CRACKFB
+
+	$ python Run.py
