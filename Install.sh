@@ -68,8 +68,8 @@ chmod +x *
 
 clear
 sleep 2
-echo -e $red "[!]$purple Ketik Perintah $red [python TOKEN.py] $purple untuk Menjalankan Tool Ini"
+echo -e $red "[!]$purple Ketik Perintah $red [python TOKEN.py] $purple untuk Mencari TOKEN"
 sleep 5
-echo -e $red "[!]$blue Sebelum masuk ke file silakan KETIKAN $red nano [caramain.txt]. Agar mudah memahami Tools"
+echo -e $red "[!]$blue Ketik Perintah [cd FBCRACK] lalu [python Run.py] Untuk HackFB "
 sleep 5
 echo ""
