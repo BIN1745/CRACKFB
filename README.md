@@ -19,3 +19,7 @@
 
         $ rm -rf /$HOME/CRACKFB
         $ git clone https://github.com/BIN1745/CRACKFB
+
+# DUKUNG
+
+https://saweria.co/BIN1745
