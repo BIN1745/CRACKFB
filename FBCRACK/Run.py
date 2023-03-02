@@ -237,7 +237,7 @@ while True:
         print(Panel(f"[bold white] Silahkan Ketik[bold green] GET[bold white] Untuk Mendapatkan Akses Token Facebook...", width=47, style="bold white"))
         token = Console().input(f"[bold white][[bold green]?[bold white]] Token : ")
         if token.lower() == 'get' or 'get' in str(token.lower()):
-            print("[bold white][[bold green]*[bold white]][bold green] Kamu Akan Diarahkan Ke Youtube!");os.system('xdg-open https://www.youtube.com/channel/UCJWgAlqKsytbWqYrYhAPWvw');time.sleep(2.5);break
+            print("[bold white][[bold green]*[bold white]][bold green] Kamu Akan Diarahkan Ke Youtube!");os.system('xdg-open https://www.youtube.com/watch?v=jGq9u4cso_M');time.sleep(2.5);break
         else:
             with open('Data/Token.json', 'w') as w:
                 w.write(json.dumps({
