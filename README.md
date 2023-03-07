@@ -1,3 +1,13 @@
+# BAHAN-BAHAN HACKING
+
+       *Termux*
+       *Kiwi Browser*
+
+# TUTORIAL(CARA PENGGUNAAN)
+
+       $ cd CRACKFB
+       $ nano CARAAMBILTOKEN.txt
+
 # INSTALASI ON TERMUX
        
        $ apt-get update && apt-get upgrade
